@@ -12,7 +12,7 @@ Download the zip file, then extract it to your localhost.
 import Database
 siteurl/admin
 username: admin
-password: 1234
+password: 123
 ```
 
 ## Contributing
